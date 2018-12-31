@@ -35,7 +35,7 @@ import LoginScreen from './containers/auth/LoginScreen';
 import PasswordScreen from './containers/auth/PasswordScreen';
 import SignupScreen from './containers/auth/SignupScreen';
 import ImportScreen from './containers/auth/ImportScreen';
-import PricingScreen from './containers/auth/PricingScreen';
+// import PricingScreen from './containers/auth/PricingScreen';
 import InviteScreen from './containers/auth/InviteScreen';
 import AuthLayoutContainer from './containers/auth/AuthLayoutContainer';
 import SubscriptionPopupScreen from './containers/subscription/SubscriptionPopupScreen';
