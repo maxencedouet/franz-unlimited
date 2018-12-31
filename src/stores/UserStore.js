@@ -176,7 +176,7 @@ export default class UserStore extends Store {
 
     this._setUserData(authToken);
 
-    this.stores.router.push(this.PRICING_ROUTE);
+    // this.stores.router.push(this.PRICING_ROUTE);
 
     gaEvent('User', 'signup');
   }

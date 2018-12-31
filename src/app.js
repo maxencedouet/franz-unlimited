@@ -87,7 +87,6 @@ window.addEventListener('load', () => {
                 <Route path="/auth/signup">
                   <IndexRedirect to="/auth/signup/form" />
                   <Route path="/auth/signup/form" component={SignupScreen} />
-                  <Route path="/auth/signup/pricing" component={PricingScreen} />
                   <Route path="/auth/signup/import" component={ImportScreen} />
                   <Route path="/auth/signup/invite" component={InviteScreen} />
                 </Route>
